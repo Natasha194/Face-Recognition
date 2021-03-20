@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(2, 19, 32);
+    color: whitesmoke;
+}
+.heading {
+    width: 75%;
+    border-radius: 10px;
+    font-size: 28px;
+    background-color: blueviolet;
+    color: white;
+}
+
+b {
+    color: #d49ecb;
+}
+.hi {
+    width: 70%;
+    background-color: rgb(173, 161, 202);
+    color: black;
+    font-size: 15px;
+}
